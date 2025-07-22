@@ -1,8 +1,8 @@
 # Grzejnik
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
-### 🧪 Languages:
+### Languages:
 - ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
